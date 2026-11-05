@@ -1,7 +1,8 @@
 
 import React from 'react';
-
-function Navbar() {
+// Navbar component for Student App navigation
+function Navbar() 
+{
     return (
         <nav style={{
             backgroundColor: '#282c34',
